@@ -1,0 +1,20 @@
+{
+  "name": "ayoba-technical-assessment",
+  "version": "1.0.0",
+  "description": "Ayoba Technical Assessment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siphahle/ayoba-technical-assessment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siphahle/ayoba-technical-assessment/issues"
+  },
+  "homepage": "https://github.com/siphahle/ayoba-technical-assessment#readme"
+}
