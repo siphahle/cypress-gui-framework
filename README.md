@@ -1,1 +1,1 @@
-# ayoba-technical-assessment
+# technical-assessment
